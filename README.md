@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/github/license/snipsco-samples/quickstart-android.svg)](https://github.com/snipsco-samples/quickstart-android/blob/master/LICENSE)
 
-Sample code for the [Android Quick Start](https://snips.gitbook.io/documentation/getting-started/quick-start-android) guide on the [Snips Dev Center](https://snips.gitbook.io/documentation/).
+Sample code for the [Android Quick Start](https://docs.snips.ai/getting-started/quick-start-android) guide on the [Snips Dev Center](https://docs.snips.ai).
 
 ## Contributing
 
